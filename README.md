@@ -19,8 +19,6 @@ const alejandro = {
 }
 ```
 
-[![wakatime](https://wakatime.com/badge/user/@43ba3202-b02d-43e2-b506-b7f1eacf5f30.svg)](https://wakatime.com/@43ba3202-b02d-43e2-b506-b7f1eacf5f30)
-
 ## 🛠 Mi arsenal favorito
 
 ```typescript
