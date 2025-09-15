@@ -11,11 +11,12 @@
 ```javascript
 const alejandro = {
   location: "Construyendo desde Chile 🇨🇱",
+  lookingForWork: true,
   currentProject: "Nutriplo - Revolucionando la nutrición digital",
   dailyCoffee: "Americano doble (siempre)",
   mentalState: "Debuggeando la vida, una línea a la vez",
   workingOn: ["Componentes React", "Optimización de APIs", "Experiencia de usuario"],
-  listeningTo: "Lo-fi hip hop radio / When they cry OST"
+  listeningTo: "Lena Rain / When they cry OST / Lo-fi hip hop radio"
 }
 ```
 
