@@ -59,7 +59,7 @@ const technologies = {
 
 ## Mis Proyectos
 
-### [🥗 Nutriplo](https://nutriplo.com)
+### [Nutriplo](https://nutriplo.com)
 *La app que los nutricionistas no sabían que necesitaban*
 - Gestión de pacientes que no da dolor de cabeza
 - Calculadoras nutricionales que realmente funcionan  
@@ -67,7 +67,7 @@ const technologies = {
 - Formularios dinámicos que se adaptan a cualquier dispositivo
 - **Stack**: React, TypeScript, Tailwind, Supabase, Express
 
-### [🔧 Proyecto Secreto #1](https://github.com/acortesmoreno)
+### [Proyecto Secreto #1](https://github.com/acortesmoreno)
 *Próximamente...*
 - Algo relacionado con automatización
 - Probablemente involucre APIs
@@ -85,7 +85,7 @@ const technologies = {
 
 ## Hablemos
 
-- 📧 **Email**: [lacrimadev@gmail.com](mailto:lacrimadev@gmail.com)
-- 💼 **LinkedIn**: [Alejandro Cortés Moreno](https://www.linkedin.com/in/alejandro-cort%C3%A9s-moreno-5b31662a7)
-- 🐦 **Twitter**: [@lacrima-dev](https://twitter.com/lacrimadev)  
-- 🌍 **Portfolio**: [lacrima.dev](https://lacrima.dev)
+- **Email**: [lacrimadev@gmail.com](mailto:lacrimadev@gmail.com)
+- **LinkedIn**: [Alejandro Cortés Moreno](https://www.linkedin.com/in/alejandro-cort%C3%A9s-moreno-5b31662a7)
+- **Twitter**: [@lacrima-dev](https://twitter.com/lacrimadev)  
+- **Portfolio**: [lacrima.dev](https://lacrima.dev)
