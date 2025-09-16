@@ -1,4 +1,4 @@
-# 🍃 Alejandro Cortés Moreno
+# Alejandro Cortés Moreno
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&width=435&lines=Desarrollador+Frontend;Amante+del+buen+café)](https://git.io/typing-svg)
 
@@ -6,7 +6,7 @@
 
 ¡Hola! Soy un desarrollador que cree que la tecnología puede hacer la vida más fácil, especialmente cuando se trata de salud y bienestar. Actualmente estoy construyendo **Nutriplo**, porque creo que los nutricionistas merecen herramientas tan elegantes como las que usan los diseñadores.
 
-## 🎯 En qué ando metido ahora
+## En qué ando metido ahora
 
 ```javascript
 const alejandro = {
@@ -20,7 +20,7 @@ const alejandro = {
 }
 ```
 
-## 🛠 Mi arsenal favorito
+## Mi arsenal favorito
 
 ```typescript
 // Mi stack preferido (sin orden particular... mentira, sí hay orden)
@@ -32,7 +32,7 @@ const technologies = {
 }
 ```
 
-### 💻 Stack con el que he trabajado
+### Stack con el que he trabajado
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-653398?style=flat-square&logo=css&logoColor=white)
@@ -57,7 +57,7 @@ const technologies = {
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 
-## 🚀 Mis Proyectos
+## Mis Proyectos
 
 ### [🥗 Nutriplo](https://nutriplo.com)
 *La app que los nutricionistas no sabían que necesitaban*
@@ -75,15 +75,15 @@ const technologies = {
 
 > *La mayoría de mi código vive en repos privados, pero prometo que sí programo todos los días*
 
-## 🏆 Logros desbloqueados
+## Logros desbloqueados
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=acortesmoreno&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 ![Alejandro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=acortesmoreno&theme=tokyo-night&hide_border=true)
 
-## 💬 Hablemos
+## Hablemos
 
 - 📧 **Email**: [lacrimadev@gmail.com](mailto:lacrimadev@gmail.com)
 - 💼 **LinkedIn**: [Alejandro Cortés Moreno](https://www.linkedin.com/in/alejandro-cort%C3%A9s-moreno-5b31662a7)
